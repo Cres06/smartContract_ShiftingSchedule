@@ -1,4 +1,8 @@
-# smartContract_ShiftingSchedule
+#Smart Contract Project
+
+For this project, write a smart contract that implements the require(), assert() and revert() statements.
+
+#Code
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -19,3 +23,12 @@ contract shiftingSched {
   }
 }
 }
+
+#Author
+
+NTC
+
+ALCANSADO, CRESILDA B.
+
+8210118@ntc.edu.ph
+
