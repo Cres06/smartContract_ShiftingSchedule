@@ -1,8 +1,8 @@
-  #Smart Contract Project
+  # Smart Contract Project
   
     For this project, write a smart contract that implements the require(), assert() and revert() statements.
     
-  #Codes
+  # Codes
     
       // SPDX-License-Identifier: MIT
       pragma solidity ^0.8.0;
@@ -27,7 +27,7 @@
       }
       }
     
-  #Author
+  # Author
   
         NTC
         ALCANSADO, CRESILDA B.
